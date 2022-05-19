@@ -1,0 +1,14 @@
+F:\CV\ListUsers\CaiThienBaiTest\bin\Debug\netcoreapp3.1\CaiThienBaiTest.exe
+F:\CV\ListUsers\CaiThienBaiTest\bin\Debug\netcoreapp3.1\CaiThienBaiTest.deps.json
+F:\CV\ListUsers\CaiThienBaiTest\bin\Debug\netcoreapp3.1\CaiThienBaiTest.runtimeconfig.json
+F:\CV\ListUsers\CaiThienBaiTest\bin\Debug\netcoreapp3.1\CaiThienBaiTest.runtimeconfig.dev.json
+F:\CV\ListUsers\CaiThienBaiTest\bin\Debug\netcoreapp3.1\CaiThienBaiTest.dll
+F:\CV\ListUsers\CaiThienBaiTest\bin\Debug\netcoreapp3.1\CaiThienBaiTest.pdb
+F:\CV\ListUsers\CaiThienBaiTest\obj\Debug\netcoreapp3.1\CaiThienBaiTest.csproj.AssemblyReference.cache
+F:\CV\ListUsers\CaiThienBaiTest\obj\Debug\netcoreapp3.1\CaiThienBaiTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\CV\ListUsers\CaiThienBaiTest\obj\Debug\netcoreapp3.1\CaiThienBaiTest.AssemblyInfoInputs.cache
+F:\CV\ListUsers\CaiThienBaiTest\obj\Debug\netcoreapp3.1\CaiThienBaiTest.AssemblyInfo.cs
+F:\CV\ListUsers\CaiThienBaiTest\obj\Debug\netcoreapp3.1\CaiThienBaiTest.csproj.CoreCompileInputs.cache
+F:\CV\ListUsers\CaiThienBaiTest\obj\Debug\netcoreapp3.1\CaiThienBaiTest.dll
+F:\CV\ListUsers\CaiThienBaiTest\obj\Debug\netcoreapp3.1\CaiThienBaiTest.pdb
+F:\CV\ListUsers\CaiThienBaiTest\obj\Debug\netcoreapp3.1\CaiThienBaiTest.genruntimeconfig.cache

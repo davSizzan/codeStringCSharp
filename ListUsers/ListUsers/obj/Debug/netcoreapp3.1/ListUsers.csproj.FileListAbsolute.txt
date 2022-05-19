@@ -1,0 +1,14 @@
+F:\CV\ListUsers\ListUsers\bin\Debug\netcoreapp3.1\ListUsers.exe
+F:\CV\ListUsers\ListUsers\bin\Debug\netcoreapp3.1\ListUsers.deps.json
+F:\CV\ListUsers\ListUsers\bin\Debug\netcoreapp3.1\ListUsers.runtimeconfig.json
+F:\CV\ListUsers\ListUsers\bin\Debug\netcoreapp3.1\ListUsers.runtimeconfig.dev.json
+F:\CV\ListUsers\ListUsers\bin\Debug\netcoreapp3.1\ListUsers.dll
+F:\CV\ListUsers\ListUsers\bin\Debug\netcoreapp3.1\ListUsers.pdb
+F:\CV\ListUsers\ListUsers\obj\Debug\netcoreapp3.1\ListUsers.csproj.AssemblyReference.cache
+F:\CV\ListUsers\ListUsers\obj\Debug\netcoreapp3.1\ListUsers.GeneratedMSBuildEditorConfig.editorconfig
+F:\CV\ListUsers\ListUsers\obj\Debug\netcoreapp3.1\ListUsers.AssemblyInfoInputs.cache
+F:\CV\ListUsers\ListUsers\obj\Debug\netcoreapp3.1\ListUsers.AssemblyInfo.cs
+F:\CV\ListUsers\ListUsers\obj\Debug\netcoreapp3.1\ListUsers.csproj.CoreCompileInputs.cache
+F:\CV\ListUsers\ListUsers\obj\Debug\netcoreapp3.1\ListUsers.dll
+F:\CV\ListUsers\ListUsers\obj\Debug\netcoreapp3.1\ListUsers.pdb
+F:\CV\ListUsers\ListUsers\obj\Debug\netcoreapp3.1\ListUsers.genruntimeconfig.cache
